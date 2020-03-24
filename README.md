@@ -21,6 +21,7 @@ Contribute by making a pull request or reach out to us on twitter at [@hiring202
 |Amazon|Not Cancelled||
 |Apple|Not Cancelled||
 |Atlassian|Not Cancelled||
+|Biogen|Not Cancelled||
 |Capital One|Not Cancelled||
 |Carvana|Not Cancelled|Hiring Freeze|
 |Citadel|Not Cancelled|WFH Possible|
